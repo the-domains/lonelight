@@ -1,0 +1,14 @@
+layout_spectrum: 0.4612142
+typography_spectrum: 0.5623946
+color:
+  saturation: 0.5986509
+  brandStrength: 0.1976186
+  lightness: 0.8136594
+  rhythmicContrast: 0.2236404
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Lonelight
